@@ -1,8 +1,8 @@
 ---
-title: Daria tutorial blue two
+title: Sa QA two
 description: 2 new types of rules 2007_1
-tags: [tutorial:product/sapHana, tutorial:experience/beginner]
-primary_tag: tutorial:product/sapHana
+tags: [tutorial>beginner, products>sap-hana, topic>ABAP Development]
+primary_tag: products>sap-hana-cloud
 author_name: AEM
 author_profile: https://github.com/adadouche
 ---
