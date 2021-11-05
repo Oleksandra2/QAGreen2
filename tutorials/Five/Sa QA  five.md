@@ -1,8 +1,8 @@
 ---
 title: Test Blue five
 description: Daria tutorial blue five
-tags: [tutorial:product/sapHana, tutorial:experience/beginner]
-primary_tag: tutorial:product/sapHana
+tags: [ tutorial>beginner, products>sap-hana, topic>ABAP Development, topic>big-data, topic>sql, tutorial>community]
+primary_tag: products>sap-hana-cloud
 author_name: AEM
 author_profile: https://github.com/adadouche
 ---
