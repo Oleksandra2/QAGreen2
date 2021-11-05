@@ -1,8 +1,8 @@
 ---
-title: QA eight
+title: Sa QA eight eight
  description: example
 tags: [products>sap-hana, topic>api, tutorial>beginner]
-primary_tag: tutorial:product/mobile
+primary_tag: products>mobile
 ---
 ### Time to Complete
 20 min
